@@ -8,7 +8,7 @@ This repository captures **all my resources, notes, and side projects** while le
 
 ### Primary Learning
 
-* **Nexus Batch Lectures** – \[Add link to lecture portal/playlist]
+* **Nexus Batch Lectures** 
 * [System Design Primer](https://github.com/donnemartin/system-design-primer) – Community curated guide.
 * [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 
